@@ -45,7 +45,7 @@ export default function IPForm() {
     setResponse(null);
     
     try {
-      const response = await fetch('https://dry-leaf-3047.tines.com/webhook/b30ab4202ce66741eb9cba24643d724c/4b93c95e60e71673b2a9b7047d0f4b9d', {
+      const response = await fetch('YOUR-TENANT-WEBHOOK', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
