@@ -60,7 +60,7 @@ Save the file
 
 Make sure you save the file
 
-## **5. Development Mode **
+## **5. Development Mode**
 
 If you want to run the project in development mode, use the following:
 
