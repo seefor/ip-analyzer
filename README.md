@@ -69,3 +69,11 @@ npm run dev
 ```
 
 There will be a “url” and port that will popup on the terminal you can hold down “CMD” and click to open the webpage.
+
+## **6. Enable CORS**
+
+After you open the URL from above COPY it, then go to Tines and selecet the WebHook and add the Option Enable CORS and PASTE the URL just like below.
+
+<img width="343" alt="image" src="https://github.com/user-attachments/assets/f9b71779-ea72-4819-9788-ac39556393b5">
+
+Now you will be able to send the request to the webhook.
