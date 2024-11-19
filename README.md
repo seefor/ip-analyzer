@@ -77,3 +77,4 @@ After you open the URL from above COPY it, then go to Tines and selecet the WebH
 <img width="343" alt="image" src="https://github.com/user-attachments/assets/f9b71779-ea72-4819-9788-ac39556393b5">
 
 Now you will be able to send the request to the webhook.
+**NOTE** : make sure the trailing “/” is off the URL
